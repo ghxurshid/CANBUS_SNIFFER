@@ -1,5 +1,10 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>BluetoothListView.qml</file>
+        <file>CanFrameTableView.qml</file>
+        <file>FrameItemText.qml</file>
+        <file>IdentText.qml</file>
+        <file>LabelText.qml</file>
     </qresource>
 </RCC>
