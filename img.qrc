@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bluetooth_connecting.png</file>
+        <file>img/bluetooth_disabled.png</file>
+        <file>img/bluetooth_enabled.png</file>
+        <file>img/bluetooth_icon.png</file>
+    </qresource>
+</RCC>
